@@ -1,0 +1,5 @@
+site_name: František Pešula
+
+nav:
+  - Hodina webových aplikací: 'hodinaWA.md'
+  - Maturitní otázky - Matematika: 'maturita.md'
